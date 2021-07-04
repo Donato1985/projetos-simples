@@ -1,2 +1,2 @@
-# projetos-simples
-pequenos programas e coockboock de alguns jogos
+#  just for fun
+One litle and single python code for study the language
