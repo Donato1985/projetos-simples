@@ -1,7 +1,7 @@
 def get_head(nums):
     """get_head supose treated one string where have eight numbers, one birthday.
     It's returned one list with five numbers represent the head's Afro numerology. For more information about this,
-    go one Orixa's house or contact one Father or Mother's Saint. And no, you dont become Saint's father for knowing that
+    go to Orixa's house or contact one Father or Mother's Saint. And no, you dont become Saint's father for knowing that
     this, and, yeah, i know, my code have much to grow up"""
     h1, f1, h2, f2,h3,f3, h4, f4= nums[0],nums[1], nums[2], nums[3], nums[4], nums[5], nums[6], nums[7]
     more16 = lambda m: int(str(m)[0])+int(str(m)[1])
